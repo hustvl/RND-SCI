@@ -25,7 +25,7 @@ This repo can reproduce the main results in Tabel 1. and Tabel 2. of our paper. 
 ------
 - Python 3 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux))
 
-- [PyTorch >= 1.3](https://pytorch.org/)
+- [PyTorch >= 1.10](https://pytorch.org/)
 
 - NVIDIA GPU + [CUDA](https://developer.nvidia.com/cuda-downloads)
 
