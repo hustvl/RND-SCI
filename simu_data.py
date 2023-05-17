@@ -162,12 +162,12 @@ def shift_back_3d(inputs, step=2):
 
 #---------- implement with cuda -------------
 def shift_3d_cuda(inputs, step=2, dim=3):
-    inputs = roll_optim(inputs, 2, dim)
+    inputs = roll_optim(inputs, step, dim)
     return inputs
 
 
 def shift_back_3d_cuda(inputs, step=-2, dim=3):
-    inputs = roll_optim(inputs, -2, dim)
+    inputs = roll_optim(inputs, step, dim)
     return inputs
 
 
