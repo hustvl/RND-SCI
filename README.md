@@ -138,7 +138,7 @@ c). If you want test SAUNet-1stg or the others , please change the model your wa
 
 d). If you want to plug and play a model with RND, whether the pre-trained model uses RND-SCI or not, you can **directly use the command** that refers to a).
 
-#### 5. Get training time and inference FPS
+#### Get training time and inference FPS
 ##### Inference FPS
 If we want to get inference fps of RND-SAUNet, run the following commond:
 ```python
