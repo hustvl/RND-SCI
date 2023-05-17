@@ -53,7 +53,7 @@ def get_extensions():
 
 
 setup(
-  name="hsi",
+  name="rnd_sci",
   version="1.0",
   author="Shijie Wang",
   ext_modules=get_extensions(),
