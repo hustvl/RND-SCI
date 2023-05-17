@@ -1,0 +1,6 @@
+fvcore==0.1.5.post20221221
+matplotlib==3.6.0
+numpy==1.23.3
+scipy==1.9.1
+timm==0.6.11
+torch==1.12.0
