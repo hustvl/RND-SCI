@@ -22,7 +22,6 @@ This repo can reproduce the main results in Tabel 1. and Tabel 2. of our paper. 
 
 ### Create Environment:
 
-------
 - Python 3 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux))
 
 - [PyTorch >= 1.10](https://pytorch.org/)
