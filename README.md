@@ -8,7 +8,7 @@
 
 (\*) equal contribution, (<sup>:email:</sup>) corresponding author.
 
-Arxiv Preprint
+Arxiv Preprint ([arxiv 2305.09746](https://arxiv.org/abs/2305.09746))
 
 </div>
 
@@ -165,3 +165,16 @@ This project is based on [MST](https://github.com/caiyuanhao1998/MST). Thanks fo
 ### License
 
 RND-SCI is released under the [MIT License](LICENSE).
+
+### Citation
+
+If you find our paper and code useful in your research, please consider giving a star :star: and citation :pencil: :)
+
+```BibTeX
+@article{RNDSCI,
+  title={A Range-Null Space Decomposition Approach for Fast and Flexible Spectral Compressive Imaging},
+  author={Wang, Junyu and Wang, Shijie and Zhang, Ruijie and Zheng, Zengqiang and Liu, Wenyu and Wang, Xinggang},
+  journal={arXiv preprint arXiv:2305.09746},
+  year={2023}
+}
+```
